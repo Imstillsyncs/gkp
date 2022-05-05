@@ -10,3 +10,5 @@ This is a company made for teens that make games. Teens make games, they request
 
 # Socials
 Socials Coming Soon!
+
+Made by @Imstillsyncs
