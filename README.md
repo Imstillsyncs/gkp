@@ -7,3 +7,6 @@ This is a company made for teens that make games. Teens make games, they request
 [Vercel](https://gkp.vercel.app/)
 
 [StackBlitz ⚡️](https://gkp.stackblitz.io/)
+
+# Socials
+Socials Coming Soon!
